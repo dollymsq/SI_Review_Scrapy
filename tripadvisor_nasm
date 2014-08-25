@@ -336,7 +336,7 @@ var bingMapsCountry = "US".toLowerCase();
 var bingMapsBaseUrl = "http://www.bing.com/maps/default.aspx?cc=us&";
 var googleMapsBaseUrl = "http://maps.google.com/?";
 var yandexMapsBaseUrl = "http://maps.yandex.com";
-var serverPool = "A";
+var serverPool = "C";
 var reg_overhaul = true;
 var posLocale = "en_US";
 var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v14092642516b.css";
@@ -403,18 +403,18 @@ var autocompleteCss = "http://c1.tacdn.com/css2/modules/autocomplete-v1229635717
 var globalTypeAheadCss = "http://c1.tacdn.com/css2/global_typeahead-v12948167753b.css";
 var compareHotelCSS = 'http://c1.tacdn.com/css2/pages/compareHotel-v14288065984b.css';
 var wiFriHasMember =  false  ;
-var JS_SECURITY_TOKEN = "AAABSA8/oOueYuCJfju8uCGYRD5a5SlJSIGDPw==";
+var JS_SECURITY_TOKEN = "AAABSA9B3Te7gWLBei1tberw0dvUPyhHmYUB/Q==";
 var addOverlayCloseClass = "";
 var isOverlayServlet = "";
 var IS_OVERLAY_DEBUG = "false";
 var IS_MTPU_ENABLED = true;
-var MTPU_RULE = 611;
+var MTPU_RULE = 610;
 var cpu_enabled = true;
 </script>
 <script type="text/javascript">
 var freshVSTrackingCookie = true;         </script>
 <script type='text/javascript' crossorigin='anonymous' src='http://c1.tacdn.com/js3/tripadvisor-c-v12747209897b.js'></script>
-<script type="text/javascript">var taSecureToken = "AAABSA8/oOueYuCJfju8uCGYRD5a5SlJSIGDPw==";</script>
+<script type="text/javascript">var taSecureToken = "AAABSA9B3Te7gWLBei1tberw0dvUPyhHmYUB/Q==";</script>
 <script type="text/javascript">
 if (window.ta) {
 ta.queueForReady(function() {
@@ -553,7 +553,7 @@ font-size: 0.8335em;
 font-weight: bold;
 }
 </style>
-<!-- web713b.b.tripadvisor.com -->
+<!-- web131b.b.tripadvisor.com -->
 <!-- PRODUCTION -->
 <!-- PRODUCTION -->
 <script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v13958736710b.js"></script>
@@ -977,7 +977,7 @@ Review another place </a>
 <div id="MAINWRAP">
 <div id="MAIN" class="Attraction_Review
         " rel="v:itemreviewed">
-<div id="BODYCON" class="col bodLHN poolA adjust_padding new_meta_chevron_v2" typeof="v:Organization">
+<div id="BODYCON" class="col bodLHN poolC adjust_padding new_meta_chevron_v2" typeof="v:Organization">
 <div class="big_center_ad">
 <div class="ad iab_leaBoa reserve66">
 <div id="gpt-ad-728x90-970x66" class="adInner gptAd"></div>
@@ -1064,7 +1064,7 @@ ta.widgets.SavesButtons.loadSavesButton(107967, true, true, true);
                              '\x41\x6e\x20\x69\x6e\x71\x75\x69\x72\x79\x20\x66\x72\x6f\x6d\x20\x61\x20\x54\x72\x69\x70\x41\x64\x76\x69\x73\x6f\x72\x20\x75\x73\x65\x72\x20\x66\x6f\x72\x20\x53\x6d\x69\x74\x68\x73\x6f\x6e\x69\x61\x6e\x20\x4e\x61\x74\x69\x6f\x6e\x61\x6c\x20\x41\x69\x72\x20\x61\x6e\x64\x20\x53\x70\x61\x63\x65\x20\x4d\x75\x73\x65\x75\x6d', 
                              '_Url_');"><script>
 <!--
-function escramble_77(){
+function escramble_534(){
 var a,b,c
 a='E'
 b='i'
@@ -1073,7 +1073,7 @@ b+='l'
 c='a'
 document.write(a+c+b)
 }
-escramble_77()
+escramble_534()
 //-->
 </script></div>
 </div>
@@ -1431,7 +1431,7 @@ ta.queueForLoad(function() { // just in case we have the ta object before the DO
 ta.retrieve('friendAvatarSwitcherObj').findAvatarsOnPage(); // as soon as we can, start parsing the DOM for avatars
 }, "findAvatarsOnPage");
 </script>
-<img id='lazyload_-852622472_0' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:B7A7A0CF2B899A6FB3B80AA85933C384'/>
+<img id='lazyload_-272448146_0' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:B7A7A0CF2B899A6FB3B80AA85933C384'/>
 </a>
 </div>
 <div class="username mo">
@@ -1444,11 +1444,11 @@ ta.retrieve('friendAvatarSwitcherObj').findAvatarsOnPage(); // as soon as we can
 <div class="memberBadging">
 <div id="UID_B7A7A0CF2B899A6FB3B80AA85933C384-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Senior Reviewer</div>
-<img id='lazyload_-852622472_1' height='24' alt='7 reviews' width='25' class='icon lazy badge_srreviewer sprite-badge_srreviewer'/>
+<img id='lazyload_-272448146_1' height='24' alt='7 reviews' width='25' class='icon lazy badge_srreviewer sprite-badge_srreviewer'/>
 <span class="badgeText">7 reviews</span>
 </div>
 <div id="UID_B7A7A0CF2B899A6FB3B80AA85933C384-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_2' height='24' alt='3 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_2' height='24' alt='3 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">3 helpful votes</span>
 </div>
 </div>
@@ -1480,7 +1480,7 @@ The Smithsonian brings seriously good quality museum materials in an exciting wa
 <div class="wrap reportProblem">
 <span id="ReportIAP_224169402" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224169402'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_3' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_3' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1494,7 +1494,7 @@ The Smithsonian brings seriously good quality museum materials in an exciting wa
 <div id="UID_21039040261EC44FDA94A4A3C35FBB7F-SRC_224130991" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_21039040261EC44FDA94A4A3C35FBB7F ">
 <a onclick=>
-<img id='lazyload_-852622472_4' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:21039040261EC44FDA94A4A3C35FBB7F'/>
+<img id='lazyload_-272448146_4' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:21039040261EC44FDA94A4A3C35FBB7F'/>
 </a>
 </div>
 <div class="username mo">
@@ -1507,10 +1507,10 @@ The Smithsonian brings seriously good quality museum materials in an exciting wa
 <div class="memberBadging">
 <div id="UID_21039040261EC44FDA94A4A3C35FBB7F-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Contributor</div>
-<img id='lazyload_-852622472_5' height='24' alt='15 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
+<img id='lazyload_-272448146_5' height='24' alt='15 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
 <span class="badgeText">15 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_6' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
+<img id='lazyload_-272448146_6' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
 <span class="badgeText">8 attraction reviews</span>
 </div> </div>
 </div>
@@ -1542,7 +1542,7 @@ You must go could spend all day here and still not see everything. Wife and I ha
 <div class="wrap reportProblem">
 <span id="ReportIAP_224130991" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224130991'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_7' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_7' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1556,7 +1556,7 @@ You must go could spend all day here and still not see everything. Wife and I ha
 <div id="UID_0464D25DBD5BBFEFE8F9E3E00CF42851-SRC_224075850" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_0464D25DBD5BBFEFE8F9E3E00CF42851 ">
 <a onclick=>
-<img id='lazyload_-852622472_8' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0464D25DBD5BBFEFE8F9E3E00CF42851'/>
+<img id='lazyload_-272448146_8' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0464D25DBD5BBFEFE8F9E3E00CF42851'/>
 </a>
 </div>
 <div class="username mo">
@@ -1570,10 +1570,10 @@ Charleston, South Carolina
 <div class="memberBadging">
 <div id="UID_0464D25DBD5BBFEFE8F9E3E00CF42851-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Contributor</div>
-<img id='lazyload_-852622472_9' height='24' alt='13 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
+<img id='lazyload_-272448146_9' height='24' alt='13 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
 <span class="badgeText">13 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_10' height='24' alt='' width='25' class='icon lazy badge_attractions_2nd sprite-badge_attractions_2nd'/>
+<img id='lazyload_-272448146_10' height='24' alt='' width='25' class='icon lazy badge_attractions_2nd sprite-badge_attractions_2nd'/>
 <span class="badgeText">12 attraction reviews</span>
 </div> </div>
 </div>
@@ -1607,7 +1607,7 @@ Went on a guided tour...Guide was Charlie. SO knowledgeable and interesting that
 <div class="wrap reportProblem">
 <span id="ReportIAP_224075850" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224075850'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_11' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_11' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1621,7 +1621,7 @@ Went on a guided tour...Guide was Charlie. SO knowledgeable and interesting that
 <div id="UID_FE3118D7E3DFD576EF706CCD82A9F819-SRC_224050062" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_FE3118D7E3DFD576EF706CCD82A9F819 ">
 <a onclick=>
-<img id='lazyload_-852622472_12' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:FE3118D7E3DFD576EF706CCD82A9F819'/>
+<img id='lazyload_-272448146_12' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:FE3118D7E3DFD576EF706CCD82A9F819'/>
 </a>
 </div>
 <div class="username mo">
@@ -1635,14 +1635,14 @@ Windham, Connecticut
 <div class="memberBadging">
 <div id="UID_FE3118D7E3DFD576EF706CCD82A9F819-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Top Contributor</div>
-<img id='lazyload_-852622472_13' height='24' alt='70 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
+<img id='lazyload_-272448146_13' height='24' alt='70 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
 <span class="badgeText">70 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_14' height='24' alt='' width='25' class='icon lazy badge_attractions_2nd sprite-badge_attractions_2nd'/>
+<img id='lazyload_-272448146_14' height='24' alt='' width='25' class='icon lazy badge_attractions_2nd sprite-badge_attractions_2nd'/>
 <span class="badgeText">20 attraction reviews</span>
 </div> </div>
 <div id="UID_FE3118D7E3DFD576EF706CCD82A9F819-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_15' height='24' alt='49 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_15' height='24' alt='49 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">49 helpful votes</span>
 </div>
 </div>
@@ -1679,7 +1679,7 @@ More </span>
 <div class="wrap reportProblem">
 <span id="ReportIAP_224050062" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224050062'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_16' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_16' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1693,7 +1693,7 @@ More </span>
 <div id="UID_4FDF5BD16CB8563573665F1A3D2E6B10-SRC_224037814" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_4FDF5BD16CB8563573665F1A3D2E6B10 ">
 <a onclick=>
-<img id='lazyload_-852622472_17' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:4FDF5BD16CB8563573665F1A3D2E6B10'/>
+<img id='lazyload_-272448146_17' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:4FDF5BD16CB8563573665F1A3D2E6B10'/>
 </a>
 </div>
 <div class="username mo">
@@ -1707,14 +1707,14 @@ Tel Aviv, Israel
 <div class="memberBadging">
 <div id="UID_4FDF5BD16CB8563573665F1A3D2E6B10-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Top Contributor</div>
-<img id='lazyload_-852622472_18' height='24' alt='108 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
+<img id='lazyload_-272448146_18' height='24' alt='108 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
 <span class="badgeText">108 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_19' height='24' alt='' width='25' class='icon lazy badge_attractions_3rd sprite-badge_attractions_3rd'/>
+<img id='lazyload_-272448146_19' height='24' alt='' width='25' class='icon lazy badge_attractions_3rd sprite-badge_attractions_3rd'/>
 <span class="badgeText">49 attraction reviews</span>
 </div> </div>
 <div id="UID_4FDF5BD16CB8563573665F1A3D2E6B10-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_20' height='24' alt='37 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_20' height='24' alt='37 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">37 helpful votes</span>
 </div>
 </div>
@@ -1746,7 +1746,7 @@ The impressive sight of so many airplanes and space satellites, as well as speci
 <div class="wrap reportProblem">
 <span id="ReportIAP_224037814" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224037814'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_21' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_21' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1760,7 +1760,7 @@ The impressive sight of so many airplanes and space satellites, as well as speci
 <div id="UID_0F73C9EACF874217C756B746F693F8A4-SRC_224012007" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_0F73C9EACF874217C756B746F693F8A4 ">
 <a onclick=>
-<img id='lazyload_-852622472_22' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0F73C9EACF874217C756B746F693F8A4'/>
+<img id='lazyload_-272448146_22' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0F73C9EACF874217C756B746F693F8A4'/>
 </a>
 </div>
 <div class="username mo">
@@ -1776,14 +1776,14 @@ London, United Kingdom
 <a href="/Amex">Amex Traveler</a> </div>
 <div id="UID_0F73C9EACF874217C756B746F693F8A4-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Top Contributor</div>
-<img id='lazyload_-852622472_23' height='24' alt='81 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
+<img id='lazyload_-272448146_23' height='24' alt='81 reviews' width='25' class='icon lazy badge_topcontributor sprite-badge_topcontributor'/>
 <span class="badgeText">81 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_24' height='24' alt='' width='25' class='icon lazy badge_attractions_3rd sprite-badge_attractions_3rd'/>
+<img id='lazyload_-272448146_24' height='24' alt='' width='25' class='icon lazy badge_attractions_3rd sprite-badge_attractions_3rd'/>
 <span class="badgeText">42 attraction reviews</span>
 </div> </div>
 <div id="UID_0F73C9EACF874217C756B746F693F8A4-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_25' height='24' alt='16 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_25' height='24' alt='16 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">16 helpful votes</span>
 </div>
 </div>
@@ -1815,7 +1815,7 @@ Both the exhibits and the actual old planes and flying machines here are fantast
 <div class="wrap reportProblem">
 <span id="ReportIAP_224012007" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '224012007'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_26' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_26' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1829,7 +1829,7 @@ Both the exhibits and the actual old planes and flying machines here are fantast
 <div id="UID_0B4F03E572BF25096C74138E41A8A14B-SRC_223957557" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_0B4F03E572BF25096C74138E41A8A14B ">
 <a onclick=>
-<img id='lazyload_-852622472_27' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0B4F03E572BF25096C74138E41A8A14B'/>
+<img id='lazyload_-272448146_27' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:0B4F03E572BF25096C74138E41A8A14B'/>
 </a>
 </div>
 <div class="username mo">
@@ -1843,14 +1843,14 @@ New Hampshire
 <div class="memberBadging">
 <div id="UID_0B4F03E572BF25096C74138E41A8A14B-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Senior Contributor</div>
-<img id='lazyload_-852622472_28' height='24' alt='46 reviews' width='25' class='icon lazy badge_srcontributor sprite-badge_srcontributor'/>
+<img id='lazyload_-272448146_28' height='24' alt='46 reviews' width='25' class='icon lazy badge_srcontributor sprite-badge_srcontributor'/>
 <span class="badgeText">46 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_29' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
+<img id='lazyload_-272448146_29' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
 <span class="badgeText">10 attraction reviews</span>
 </div> </div>
 <div id="UID_0B4F03E572BF25096C74138E41A8A14B-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_30' height='24' alt='25 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_30' height='24' alt='25 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">25 helpful votes</span>
 </div>
 </div>
@@ -1883,7 +1883,7 @@ I found some of the most interesting things to be captions and photos. Yes, the 
 <div class="wrap reportProblem">
 <span id="ReportIAP_223957557" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '223957557'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_31' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_31' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1897,7 +1897,7 @@ I found some of the most interesting things to be captions and photos. Yes, the 
 <div id="UID_4740C78A25DE87076599D77C4F3337BC-SRC_223923587" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_4740C78A25DE87076599D77C4F3337BC ">
 <a onclick=>
-<img id='lazyload_-852622472_32' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:4740C78A25DE87076599D77C4F3337BC'/>
+<img id='lazyload_-272448146_32' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:4740C78A25DE87076599D77C4F3337BC'/>
 </a>
 </div>
 <div class="username mo">
@@ -1911,14 +1911,14 @@ New York City, New York
 <div class="memberBadging">
 <div id="UID_4740C78A25DE87076599D77C4F3337BC-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Contributor</div>
-<img id='lazyload_-852622472_33' height='24' alt='11 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
+<img id='lazyload_-272448146_33' height='24' alt='11 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
 <span class="badgeText">11 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_34' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
+<img id='lazyload_-272448146_34' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
 <span class="badgeText">7 attraction reviews</span>
 </div> </div>
 <div id="UID_4740C78A25DE87076599D77C4F3337BC-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_35' height='24' alt='5 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_35' height='24' alt='5 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">5 helpful votes</span>
 </div>
 </div>
@@ -1955,7 +1955,7 @@ More </span>
 <div class="wrap reportProblem">
 <span id="ReportIAP_223923587" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '223923587'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_36' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_36' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -1969,7 +1969,7 @@ More </span>
 <div id="UID_84A96BE683D7B478A07ED2701B65C71C-SRC_223887413" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_84A96BE683D7B478A07ED2701B65C71C ">
 <a onclick=>
-<img id='lazyload_-852622472_37' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:84A96BE683D7B478A07ED2701B65C71C'/>
+<img id='lazyload_-272448146_37' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:84A96BE683D7B478A07ED2701B65C71C'/>
 </a>
 </div>
 <div class="username mo">
@@ -1983,14 +1983,14 @@ Kansas City
 <div class="memberBadging">
 <div id="UID_84A96BE683D7B478A07ED2701B65C71C-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Contributor</div>
-<img id='lazyload_-852622472_38' height='24' alt='13 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
+<img id='lazyload_-272448146_38' height='24' alt='13 reviews' width='25' class='icon lazy badge_contributor sprite-badge_contributor'/>
 <span class="badgeText">13 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_39' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
+<img id='lazyload_-272448146_39' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
 <span class="badgeText">8 attraction reviews</span>
 </div> </div>
 <div id="UID_84A96BE683D7B478A07ED2701B65C71C-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_40' height='24' alt='3 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_40' height='24' alt='3 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">3 helpful votes</span>
 </div>
 </div>
@@ -2022,7 +2022,7 @@ If you like Air and Space, also go to their second location in Chantilly, VA. No
 <div class="wrap reportProblem">
 <span id="ReportIAP_223887413" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '223887413'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_41' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_41' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -2036,7 +2036,7 @@ If you like Air and Space, also go to their second location in Chantilly, VA. No
 <div id="UID_2A5B8D095610AE4672CDC6C85EC9FD3E-SRC_223827433" class="memberOverlayLink" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&&(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
 <div class="avatar profile_2A5B8D095610AE4672CDC6C85EC9FD3E ">
 <a onclick=>
-<img id='lazyload_-852622472_42' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:2A5B8D095610AE4672CDC6C85EC9FD3E'/>
+<img id='lazyload_-272448146_42' height='74' width='74' class='avatar potentialFacebookAvatar avatarGUID:2A5B8D095610AE4672CDC6C85EC9FD3E'/>
 </a>
 </div>
 <div class="username mo">
@@ -2050,14 +2050,14 @@ Toronto, Canada
 <div class="memberBadging">
 <div id="UID_2A5B8D095610AE4672CDC6C85EC9FD3E-CONT" class="totalReviewBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
 <div class="reviewerTitle">Senior Reviewer</div>
-<img id='lazyload_-852622472_43' height='24' alt='10 reviews' width='25' class='icon lazy badge_srreviewer sprite-badge_srreviewer'/>
+<img id='lazyload_-272448146_43' height='24' alt='10 reviews' width='25' class='icon lazy badge_srreviewer sprite-badge_srreviewer'/>
 <span class="badgeText">10 reviews</span>
 <div class="contributionReviewBadge">
-<img id='lazyload_-852622472_44' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
+<img id='lazyload_-272448146_44' height='24' alt='' width='25' class='icon lazy badge_attractions_1st sprite-badge_attractions_1st'/>
 <span class="badgeText">3 attraction reviews</span>
 </div> </div>
 <div id="UID_2A5B8D095610AE4672CDC6C85EC9FD3E-HV" class="helpfulVotesBadge badge no_cpu" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
-<img id='lazyload_-852622472_45' height='24' alt='37 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
+<img id='lazyload_-272448146_45' height='24' alt='37 helpful votes' width='25' class='icon lazy badge_helpful sprite-badge_helpful'/>
 <span class="badgeText">37 helpful votes</span>
 </div>
 </div>
@@ -2096,7 +2096,7 @@ More </span>
 <div class="wrap reportProblem">
 <span id="ReportIAP_223827433" class="problem collapsed taLnk" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '223827433'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
 <span class="hidden ulBlueLinks">Problem with this review?</span>
-<img id='lazyload_-852622472_46' height='14' alt='' width='13'/>
+<img id='lazyload_-272448146_46' height='14' alt='' width='13'/>
 </span>
 </div> </div>
 </div> </div> </div> </div>
@@ -2123,7 +2123,7 @@ More </span>
 <div class="thumbnail fl">
 <a onclick=" ta.util.cookie.setPIDCookie(1063);" href="/Attraction_Review-g28970-d104867-Reviews-Smithsonian_National_Museum_of_Natural_History-Washington_DC_District_of_Columbia.html">
 <div class="sizedThumb  " style="height: 74px; width: 74px">
-<img id='lazyload_-852622472_47' height='74' style='height: 74px; width: 74px;' alt='Smithsonian National Museum of Natural History' width='74' class='photo_image'/>
+<img id='lazyload_-272448146_47' height='74' style='height: 74px; width: 74px;' alt='Smithsonian National Museum of Natural History' width='74' class='photo_image'/>
 </div>
 </a>
 </div>
@@ -2143,7 +2143,7 @@ Washington DC, DC </div>
 <div class="thumbnail fl">
 <a onclick=" ta.util.cookie.setPIDCookie(1063);" href="/Attraction_Review-g28970-d107880-Reviews-Smithsonian_Institution_Building-Washington_DC_District_of_Columbia.html">
 <div class="sizedThumb  " style="height: 74px; width: 74px">
-<img id='lazyload_-852622472_48' height='74' style='height: 74px; width: 74px;' alt='Smithsonian Institution Building' width='74' class='photo_image'/>
+<img id='lazyload_-272448146_48' height='74' style='height: 74px; width: 74px;' alt='Smithsonian Institution Building' width='74' class='photo_image'/>
 </div>
 </a>
 </div>
@@ -2154,7 +2154,7 @@ Washington DC, DC </div>
 <img class="sprite-rating_s_fill rating_s_fill s45" src="http://c1.tacdn.com/img2/x.gif" alt="4.5 of 5 stars">
 </span>
 <a onclick=" ta.util.cookie.setPIDCookie(1020);" href="/Attraction_Review-g28970-d107880-Reviews-Smithsonian_Institution_Building-Washington_DC_District_of_Columbia.html#REVIEWS">
-2,454 Reviews
+2,455 Reviews
 </a>
 </div>
 <div class="location">
@@ -2165,7 +2165,7 @@ Washington DC, DC </div>
 <div class="thumbnail fl">
 <a onclick=" ta.util.cookie.setPIDCookie(1063);" href="/Attraction_Review-g28970-d103438-Reviews-Lincoln_Memorial_and_Reflecting_Pool-Washington_DC_District_of_Columbia.html">
 <div class="sizedThumb  " style="height: 74px; width: 74px">
-<img id='lazyload_-852622472_49' height='74' style='height: 74px; width: 74px;' alt='Lincoln Memorial and Reflecting Pool' width='74' class='photo_image'/>
+<img id='lazyload_-272448146_49' height='74' style='height: 74px; width: 74px;' alt='Lincoln Memorial and Reflecting Pool' width='74' class='photo_image'/>
 </div>
 </a>
 </div>
@@ -2176,7 +2176,7 @@ Washington DC, DC </div>
 <img class="sprite-rating_s_fill rating_s_fill s45" src="http://c1.tacdn.com/img2/x.gif" alt="4.5 of 5 stars">
 </span>
 <a onclick=" ta.util.cookie.setPIDCookie(1020);" href="/Attraction_Review-g28970-d103438-Reviews-Lincoln_Memorial_and_Reflecting_Pool-Washington_DC_District_of_Columbia.html#REVIEWS">
-6,307 Reviews
+6,306 Reviews
 </a>
 </div>
 <div class="location">
@@ -2185,7 +2185,7 @@ Washington DC, DC </div>
 <div class="thumbnail fl">
 <a onclick=" ta.util.cookie.setPIDCookie(1063);" href="/Attraction_Review-g28970-d103436-Reviews-Jefferson_Memorial-Washington_DC_District_of_Columbia.html">
 <div class="sizedThumb  " style="height: 74px; width: 74px">
-<img id='lazyload_-852622472_50' height='74' style='height: 74px; width: 74px;' alt='Jefferson Memorial' width='74' class='photo_image'/>
+<img id='lazyload_-272448146_50' height='74' style='height: 74px; width: 74px;' alt='Jefferson Memorial' width='74' class='photo_image'/>
 </div>
 </a>
 </div>
@@ -2594,7 +2594,7 @@ ta.store('mapsv2.map_addressnotfound', 'Address not found');         ta.store('m
 <div id="STATIC_MAP" class="staticMap js_mapThumb">
 <span class="mapWxH" onclick="                     ta.call('ta.mapsv2.Factory.createPOIMapViaHashRedirect', event, this, null
 );">
-<img id='lazyload_-852622472_51' height='150' alt='' width='300'/>
+<img id='lazyload_-272448146_51' height='150' alt='' width='300'/>
 </span>
 </div>
 <div class="js_floatContent" title="Map">
@@ -2702,26 +2702,26 @@ Directions
 <div class="sponsorActivate">
 <span data-trackingcode="BestWesternHotelsMapsSponsorship" class="lbstWst sponsor_BEST_WESTERN chkSet js_markerClassSponsor ">
 <input type="checkbox" id="cbx-bstWst" class="sponsor_BEST_WESTERN"/>
-<img id='lazyload_-852622472_52' alt='' class='sponsorLogo'/>
+<img id='lazyload_-272448146_52' alt='' class='sponsorLogo'/>
 <label for="cbx-bstWst">Best Western</label>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('view.atdmt.com/IWC/view/363960293/direct/01/?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B7050081.4;sz=1x1?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('view.atdmt.com/IWC/view/363960293/direct/01/?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B7050081.4;sz=1x1?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
 </span>
 <span data-trackingcode="ChoiceQualityInnHotelsMapSponsorship" class="lqualityinn sponsor_QUALITY_INN chkSet js_markerClassSponsor ">
 <input type="checkbox" id="cbx-qualityinn" class="sponsor_QUALITY_INN"/>
-<img id='lazyload_-852622472_53' alt='' class='sponsorLogo'/>
+<img id='lazyload_-272448146_53' alt='' class='sponsorLogo'/>
 <label for="cbx-qualityinn">Quality Inn</label>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N884.TripAdvisor1/B7983491.132;sz=1x1?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('choice.demdex.net/event?d_event=imp&d_adgroup=109059140&d_placement=109059157&d_site=370125&d_campaign=7983491&ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B8043913.109300864;sz=1x1?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N884.TripAdvisor1/B7983491.132;sz=1x1?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('choice.demdex.net/event?d_event=imp&d_adgroup=109059140&d_placement=109059157&d_site=370125&d_campaign=7983491&ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B8043913.109300864;sz=1x1?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
 </span>
-<span data-trackingcode="ChoiceComfortFamilyUSMapSponsorship" class="lcomfortfamily sponsor_COMFORT_FAMILY chkSet js_markerClassSponsor ">
-<input type="checkbox" id="cbx-comfortfamily" class="sponsor_COMFORT_FAMILY"/>
-<img id='lazyload_-852622472_54' alt='' class='sponsorLogo'/>
+<span data-trackingcode="ChoiceComfortFamilyUSMapSponsorship" class="lcomfortfamily sponsor_COMFORT_FAMILY chkSet js_markerClassSponsor cur">
+<input type="checkbox" checked="checked" id="cbx-comfortfamily" class="sponsor_COMFORT_FAMILY"/>
+<img id='lazyload_-272448146_54' alt='' class='sponsorLogo'/>
 <label for="cbx-comfortfamily">Comfort Hotels</label>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N884.TripAdvisor1/B7983491.131;sz=1x1?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('choice.demdex.net/event?d_event=imp&d_adgroup=109059140&d_placement=109059156&d_site=370125&d_campaign=7983491&ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
-<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B8043913.107263002;sz=1x1?ord=1409005101336');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N884.TripAdvisor1/B7983491.131;sz=1x1?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('choice.demdex.net/event?d_event=imp&d_adgroup=109059140&d_placement=109059156&d_site=370125&d_campaign=7983491&ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
+<script type='text/javascript'>ta.queueForLoad(function () {ta.maps.trackpixel.storeTrackPixleSrc('ad.doubleclick.net/ad/N4764.TripAdvisor/B8043913.107263002;sz=1x1?ord=1409005247844');}, 'storeTrackPixleSrc' );</script>
 </span>
 </div>
 <div id="mapSponsorAdContainer">
@@ -2770,6 +2770,7 @@ ta.run("ta.mapsv2.Factory.handleHashLocation", {}, false);
 });
 }
 window.addEvent('load', function(evt) { if (window.location.hash == "#MAPVIEW") { ta.run("ta.mapsv2.Factory.handleHashLocation", {}, true); } });
+ta.store('sponsor.name','COMFORT_FAMILY');
 ta.store("iframe_popup_config_map_usability_survey",
 {
 isEnabled : false,
@@ -2797,7 +2798,11 @@ ta.store('mapsv2.geoName', 'Washington DC');
 ta.store('mapsv2.map_addressnotfound', "Address not found");     ta.store('mapsv2.map_addressnotfound3', "We couldn\'t find that location near {0}.  Please try another search.");     ta.store('mapsv2.directions', "Directions from {0} to {1}");     ta.store('mapsv2.enter_dates', "Enter dates for best prices");     ta.store('mapsv2.best_prices', "Best prices for your stay");
 </script>
 </div> </div>
-<div class="all">
+<div class="all sponsored wrap">
+<div class=" comfortfamily fr"></div>
+<img id='lazyload_-272448146_55' class='tracking'/>
+<img id='lazyload_-272448146_56' class='tracking'/>
+<img id='lazyload_-272448146_57' class='tracking'/>
 <a onclick="setPID(1103); return ta.call('ta.mapsv2.Factory.createPOIMapViaHashRedirect', event, this, null
 );" href="/LocalMaps-g28970-d107967-Smithsonian_National_Air_and_Space_Museum-Area.html" class=" magGlass_grn sprite-magGlass_grn taLnk">
 Interactive map
@@ -2891,7 +2896,7 @@ mm/dd/yyyy
 <div class="bx01 railGuidePromo">
 <div class="title">Washington DC trip ideas from experts and travelers</div> <div class="content">
 <div class="thumb">
-<img id='lazyload_-852622472_55' height='87' width='115'/>
+<img id='lazyload_-272448146_58' height='87' width='115'/>
 </div>
 <ul>
 <li class="sprite-middot">
@@ -2952,7 +2957,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d80708-Reviews-Capitol_Skyline_Hotel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_56' height='39' style='height: 39px; width: 58px;' alt='Capitol Skyline Hotel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_59' height='39' style='height: 39px; width: 58px;' alt='Capitol Skyline Hotel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -2973,7 +2978,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d295751-Reviews-Mandarin_Oriental_Washington_D_C-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_57' height='40' style='height: 40px; width: 40px;' alt='Mandarin Oriental, Washington D.C.' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_60' height='40' style='height: 40px; width: 40px;' alt='Mandarin Oriental, Washington D.C.' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -2994,7 +2999,7 @@ Last reviewed Aug 25, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d84086-Reviews-The_Normandy_Hotel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_58' height='39' style='height: 39px; width: 50px; margin-left: -5px;' alt='The Normandy Hotel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_61' height='39' style='height: 39px; width: 50px; margin-left: -5px;' alt='The Normandy Hotel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3015,7 +3020,7 @@ Last reviewed Aug 25, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d84131-Reviews-Willard_InterContinental_Washington-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_59' height='39' style='height: 39px; width: 53px; margin-left: -6px;' alt='Willard InterContinental Washington' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_62' height='39' style='height: 39px; width: 53px; margin-left: -6px;' alt='Willard InterContinental Washington' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3036,7 +3041,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g30242-d83946-Reviews-Hilton_Arlington-Arlington_Virginia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_60' height='40' style='height: 55px; width: 40px; margin-top: -7px;' alt='Hilton Arlington' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_63' height='40' style='height: 55px; width: 40px; margin-top: -7px;' alt='Hilton Arlington' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3057,7 +3062,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d1026016-Reviews-The_Liaison_Capitol_Hill_An_Affinia_Hotel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_61' height='40' style='height: 40px; width: 40px;' alt='The Liaison Capitol Hill, An Affinia Hotel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_64' height='40' style='height: 40px; width: 40px;' alt='The Liaison Capitol Hill, An Affinia Hotel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3078,7 +3083,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d84070-Reviews-Washington_Marriott_at_Metro_Center-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_62' height='39' style='height: 39px; width: 57px; margin-left: -8px;' alt='Washington Marriott at Metro Center' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_65' height='39' style='height: 39px; width: 57px; margin-left: -8px;' alt='Washington Marriott at Metro Center' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3099,7 +3104,7 @@ Last reviewed Aug 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d84095-Reviews-Washington_Plaza-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_63' height='40' style='height: 40px; width: 40px;' alt='Washington Plaza' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_66' height='40' style='height: 40px; width: 40px;' alt='Washington Plaza' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3120,7 +3125,7 @@ Last reviewed Aug 23, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g30242-d223231-Reviews-Holiday_Inn_Rosslyn_Key_Bridge-Arlington_Virginia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_64' height='39' style='height: 39px; width: 54px; margin-left: -7px;' alt='Holiday Inn Rosslyn @ Key Bridge' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_67' height='39' style='height: 39px; width: 54px; margin-left: -7px;' alt='Holiday Inn Rosslyn @ Key Bridge' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3141,7 +3146,7 @@ Last reviewed Aug 23, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d84079-Reviews-JW_Marriott_Washington_DC-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_65' height='39' style='height: 39px; width: 57px; margin-left: -8px;' alt='JW Marriott Washington DC' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_68' height='39' style='height: 39px; width: 57px; margin-left: -8px;' alt='JW Marriott Washington DC' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3162,7 +3167,7 @@ Last reviewed Aug 23, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 39px; width: 40px">
 <a href="/Hotel_Review-g28970-d84058-Reviews-The_Dupont_Circle_Hotel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_66' height='39' style='height: 39px; width: 60px; margin-left: -10px;' alt='The Dupont Circle Hotel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_69' height='39' style='height: 39px; width: 60px; margin-left: -10px;' alt='The Dupont Circle Hotel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3183,7 +3188,7 @@ Last reviewed Aug 21, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d498949-Reviews-Hampton_Inn_Washington_DC_Convention_Center-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_67' height='40' style='height: 50px; width: 40px; margin-top: -5px;' alt='Hampton Inn Washington, DC - Convention Center' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_70' height='40' style='height: 50px; width: 40px; margin-top: -5px;' alt='Hampton Inn Washington, DC - Convention Center' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3204,7 +3209,7 @@ Last reviewed Aug 11, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d2001277-Reviews-International_House_of_Washington-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_68' height='40' style='height: 40px; width: 40px;' alt='International House of Washington' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_71' height='40' style='height: 40px; width: 40px;' alt='International House of Washington' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3225,7 +3230,7 @@ Last reviewed Aug 5, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d84081-Reviews-L_Enfant_Plaza_Hotel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_69' height='40' style='height: 40px; width: 40px;' alt='L&#39;Enfant Plaza Hotel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_72' height='40' style='height: 40px; width: 40px;' alt='L&#39;Enfant Plaza Hotel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3246,7 +3251,7 @@ Last reviewed Jun 24, 2014
 <div class="fl">
 <div class="sizedThumb  " style="height: 40px; width: 40px">
 <a href="/Hotel_Review-g28970-d1204691-Reviews-Quality_Inn_Suites_Laurel-Washington_DC_District_of_Columbia.html" class="photo_link " onClick=" ">
-<img id='lazyload_-852622472_70' height='40' style='height: 40px; width: 40px;' alt='Quality Inn &amp; Suites Laurel' width='40' class='photo_image'/>
+<img id='lazyload_-272448146_73' height='40' style='height: 40px; width: 40px;' alt='Quality Inn &amp; Suites Laurel' width='40' class='photo_image'/>
 </a>
 </div>
 </div>
@@ -3487,7 +3492,7 @@ auto_pop_elmt.click();
 <div class="block">
 <dl class="sep brand">
 <dt>
-<img id='lazyload_-852622472_71' height='20' alt='TripAdvisor' width='132'/>
+<img id='lazyload_-272448146_74' height='20' alt='TripAdvisor' width='132'/>
 </dt>
 <dd class="meta">
 Reviews and advice on hotels, resorts, flights, vacation rentals, travel packages, and lots more!
@@ -3496,7 +3501,7 @@ Reviews and advice on hotels, resorts, flights, vacation rentals, travel package
 <div class="sep internal">
 <span><a class="taLnk" href="/PressCenter-c6-About_Us.html">About Us</a></span>
 | <span><a class="taLnk" href="/AllLocations-g28970-c1-Hotels-Washington_DC_District_of_Columbia.html">Site Map</a></span>
-| <span class="taLnk" onclick="return ta.call('ta.overlays.Factory.helpCenterLB', event);">Help&nbsp;Center <img id='lazyload_-852622472_72' height='10' alt='' width='14'/></span> </div>
+| <span class="taLnk" onclick="return ta.call('ta.overlays.Factory.helpCenterLB', event);">Help&nbsp;Center <img id='lazyload_-272448146_75' height='10' alt='' width='14'/></span> </div>
 <div class="sep legal">
 <div class="copyright">
 © 2014 TripAdvisor LLC All rights reserved. TripAdvisor <a href="/pages/terms.html">Terms of Use</a> and <a href="/pages/privacy.html">Privacy Policy</a>.
@@ -3578,7 +3583,7 @@ ta.store('multiDP.checkIn', "mm/dd/yyyy");             ta.store('multiDP.checkOu
 (function(window,ta,undefined){
 try {
 ta = window.ta = window.ta || {};
-ta.uid = 'U-u2LQoQK2IAABpY19cAAAAA';
+ta.uid = 'U-u2vwoQHzgAAFg8coUAAAAE';
 ta.userLoggedIn = false;
 ta.userSecurelyLoggedIn = false;
 if (ta.prerender && ta.prerender._init){
@@ -3599,18 +3604,18 @@ _gaq.push(['_setCustomVar',9,'EntryDetail','Smithsonian National Air and Space M
 _gaq.push(['_setCustomVar',3,'EntryGeo','Washington DC-28970',3]);
 _gaq.push(['_setCustomVar',4,'EntryCountry','United States-191',3]);
 _gaq.push(['_setCustomVar',5,'EntryServlet','Attraction_Review',3]);
-_gaq.push(['_setCustomVar',6,'Pool','A',3]);
-_gaq.push(['_setCustomVar',7,'Slice','2467',3]);
+_gaq.push(['_setCustomVar',6,'Pool','C',3]);
+_gaq.push(['_setCustomVar',7,'Slice','2531',3]);
 _gaq.push(['_setCustomVar',18,'MCID','TripAdvisor-0',3]);
 _gaq.push(['_setCustomVar',21,'PageType','Desktop Page',3]);
 _gaq.push(['_setCustomVar',22,'DeviceType','Desktop',3]);
 _gaq.push(['_setCustomVar',23,'IPGeo','Providence-60946',3]);
 _gaq.push(['_setCustomVar',24,'ProductType','Browser',3]);
-_gaq.push(['_setCustomVar',48,'WebServer','web713b',3]);
-pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",11,\"Detail\",\"Smithsonian National Air and Space Museum-107967\",3],[\"_setCustomVar\",12,\"Country\",\"United States-191\",3],[\"_setCustomVar\",25,\"Continent\",\"North America-19\",3],[\"_setCustomVar\",13,\"Geo\",\"Washington DC-28970\",3],[\"_setCustomVar\",20,\"PP\",\"-6-223-279-276-216-260-209-189-234-402-403-213-274-217-\",3],[\"_deleteCustomVar\",14],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",19]],\"url\":\"/Attraction_Review\"}');
+_gaq.push(['_setCustomVar',48,'WebServer','web131b',3]);
+pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",11,\"Detail\",\"Smithsonian National Air and Space Museum-107967\",3],[\"_setCustomVar\",12,\"Country\",\"United States-191\",3],[\"_setCustomVar\",25,\"Continent\",\"North America-19\",3],[\"_setCustomVar\",13,\"Geo\",\"Washington DC-28970\",3],[\"_setCustomVar\",20,\"PP\",\"-6-223-279-216-260-209-189-234-402-403-213-274-217-\",3],[\"_deleteCustomVar\",19],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",14]],\"url\":\"/Attraction_Review\"}');
 pageDataStack.push(pageData);
 if(ta.keep){
-ta.keep("partials.pageProperties","6-223-279-276-216-260-209-189-234-402-403-213-274-217");
+ta.keep("partials.pageProperties","6-223-279-216-260-209-189-234-402-403-213-274-217");
 }
 if(ta.store){
 ta.store("gaMemberState","-");
@@ -3638,79 +3643,82 @@ var lazyImgs = [
 ,   {"id":"THUMB_PHOTO0","tagType":"img","scroll":false,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/06/66/13/91/moon-lander.jpg"}
 ,   {"id":"THUMB_PHOTO1","tagType":"img","scroll":false,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/06/66/13/5c/one-of-the-many-planes.jpg"}
 ,   {"id":"THUMB_PHOTO2","tagType":"img","scroll":false,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/06/68/49/f5/smithsonian-national.jpg"}
-,   {"id":"lazyload_-852622472_0","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-o/04/cb/27/22/john9807.jpg"}
-,   {"id":"lazyload_-852622472_1","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_2","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_3","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_4","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/92/avatar.jpg"}
-,   {"id":"lazyload_-852622472_5","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_6","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_7","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_8","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/05/83/37/24/judy-s.jpg"}
-,   {"id":"lazyload_-852622472_9","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_10","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_11","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_12","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-a/02/b4/f1/14/jennyrose0853.jpg"}
-,   {"id":"lazyload_-852622472_13","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_14","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_15","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_16","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_17","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-a/01/e3/2f/e6/hezkia.jpg"}
-,   {"id":"lazyload_-852622472_18","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_19","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_20","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_21","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_22","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/03/76/5a/2a/matthew-c.jpg"}
-,   {"id":"lazyload_-852622472_23","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_24","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_25","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_26","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_27","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/05/6a/21/ff/pikster.jpg"}
-,   {"id":"lazyload_-852622472_28","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_29","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_30","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_31","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_32","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/7c/avatar063.jpg"}
-,   {"id":"lazyload_-852622472_33","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_34","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_35","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_36","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_37","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/96/avatar022.jpg"}
-,   {"id":"lazyload_-852622472_38","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_39","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_40","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_41","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_42","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/e5/0f/2b/fringe101.jpg"}
-,   {"id":"lazyload_-852622472_43","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_44","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_45","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
-,   {"id":"lazyload_-852622472_46","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
-,   {"id":"lazyload_-852622472_47","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/6b/53/cb/natural-history-museum.jpg"}
-,   {"id":"lazyload_-852622472_48","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/33/d8/ff/smithsonian-institution.jpg"}
-,   {"id":"lazyload_-852622472_49","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/06/1a/e7/a1/honest-abe-in-the-quiet.jpg"}
-,   {"id":"lazyload_-852622472_50","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/e0/54/da/jefferson-memorial.jpg"}
-,   {"id":"lazyload_-852622472_51","tagType":"img","scroll":false,"priority":500,"data":"http://maps.google.com/maps/api/staticmap?channel=ta.desktop&center=38.888302,-77.019997&zoom=14&maptype=roadmap&size=300x150&client=gme-tripadvisorinc1&sensor=false&markers=icon:http%3A%2F%2Fc1.tacdn.com%2Fimg2%2Fmaps%2Ficons%2Fpin_v2_CurrentCenter.png|38.8883,-77.02&signature=ufF5rwDQLl1BTvCkebTo9f6vYdM="}
-,   {"id":"lazyload_-852622472_52","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/bstWst_14w.png"}
-,   {"id":"lazyload_-852622472_53","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/qualityinn_14w.png"}
-,   {"id":"lazyload_-852622472_54","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/comfortfamily_14w.png"}
-,   {"id":"lazyload_-852622472_55","tagType":"img","scroll":false,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/30/4f/washington-dc.jpg"}
-,   {"id":"lazyload_-852622472_56","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/a2/d0a2ba7465bb5ae8b6bd0440b173d5cd5.jpg"}
-,   {"id":"lazyload_-852622472_57","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/04/b5/8b/14/mandarin-oriental-washington.jpg"}
-,   {"id":"lazyload_-852622472_58","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/4d/804db5b820ceb292659d45f42ad37a129.jpg"}
-,   {"id":"lazyload_-852622472_59","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/9c/ba9cf285ccf1ca558cd065d5246b232210.jpg"}
-,   {"id":"lazyload_-852622472_60","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/63/6f63a99836b8295f1b7bc428ce7c8cd14.jpg"}
-,   {"id":"lazyload_-852622472_61","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/05/59/17/63/the-liaison-capitol-hill.jpg"}
-,   {"id":"lazyload_-852622472_62","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/55/b4/55b4a4c2be351cf0f8a23976c31cdbe11.jpg"}
-,   {"id":"lazyload_-852622472_63","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/02/9b/c5/c9/exterior-view.jpg"}
-,   {"id":"lazyload_-852622472_64","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4b/7d/4b7db83192462756c81842352c2912f21.jpg"}
-,   {"id":"lazyload_-852622472_65","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/ea/65ea7d13c03bac27599efbff71fd65c81.jpg"}
-,   {"id":"lazyload_-852622472_66","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/1f/4c1f35c211bee368ee4308146bd330f67.jpg"}
-,   {"id":"lazyload_-852622472_67","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/cc/15ccae2e6f19520047d052d7306e31ca1.jpg"}
-,   {"id":"lazyload_-852622472_68","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/01/c1/8e/5b/room.jpg"}
-,   {"id":"lazyload_-852622472_69","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/03/5c/f3/03/exterior.jpg"}
-,   {"id":"lazyload_-852622472_70","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/77/57/7757b5e0fbe008ca7212da3bed52c9531large.jpg"}
-,   {"id":"lazyload_-852622472_71","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/branding/identityFOOT_2014.png"}
-,   {"id":"lazyload_-852622472_72","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/bell.png"}
+,   {"id":"lazyload_-272448146_0","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-o/04/cb/27/22/john9807.jpg"}
+,   {"id":"lazyload_-272448146_1","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_2","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_3","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_4","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/92/avatar.jpg"}
+,   {"id":"lazyload_-272448146_5","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_6","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_7","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_8","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/05/83/37/24/judy-s.jpg"}
+,   {"id":"lazyload_-272448146_9","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_10","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_11","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_12","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-a/02/b4/f1/14/jennyrose0853.jpg"}
+,   {"id":"lazyload_-272448146_13","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_14","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_15","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_16","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_17","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-a/01/e3/2f/e6/hezkia.jpg"}
+,   {"id":"lazyload_-272448146_18","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_19","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_20","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_21","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_22","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/03/76/5a/2a/matthew-c.jpg"}
+,   {"id":"lazyload_-272448146_23","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_24","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_25","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_26","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_27","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/05/6a/21/ff/pikster.jpg"}
+,   {"id":"lazyload_-272448146_28","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_29","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_30","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_31","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_32","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/7c/avatar063.jpg"}
+,   {"id":"lazyload_-272448146_33","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_34","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_35","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_36","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_37","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/96/avatar022.jpg"}
+,   {"id":"lazyload_-272448146_38","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_39","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_40","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_41","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_42","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/e5/0f/2b/fringe101.jpg"}
+,   {"id":"lazyload_-272448146_43","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_44","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_45","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/x.gif"}
+,   {"id":"lazyload_-272448146_46","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/gray_flag.png"}
+,   {"id":"lazyload_-272448146_47","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/6b/53/cb/natural-history-museum.jpg"}
+,   {"id":"lazyload_-272448146_48","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/33/d8/ff/smithsonian-institution.jpg"}
+,   {"id":"lazyload_-272448146_49","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/06/1a/e7/a1/honest-abe-in-the-quiet.jpg"}
+,   {"id":"lazyload_-272448146_50","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-l/01/e0/54/da/jefferson-memorial.jpg"}
+,   {"id":"lazyload_-272448146_51","tagType":"img","scroll":false,"priority":500,"data":"http://maps.google.com/maps/api/staticmap?channel=ta.desktop&center=38.888302,-77.019997&zoom=14&maptype=roadmap&size=300x150&client=gme-tripadvisorinc1&sensor=false&markers=icon:http%3A%2F%2Fc1.tacdn.com%2Fimg2%2Fmaps%2Ficons%2Fpin_v2_CurrentCenter.png|38.8883,-77.02&signature=ufF5rwDQLl1BTvCkebTo9f6vYdM="}
+,   {"id":"lazyload_-272448146_52","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/bstWst_14w.png"}
+,   {"id":"lazyload_-272448146_53","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/qualityinn_14w.png"}
+,   {"id":"lazyload_-272448146_54","tagType":"img","scroll":false,"priority":100,"data":"http://c1.tacdn.com/img2/maps/icons/logos/v2/comfortfamily_14w.png"}
+,   {"id":"lazyload_-272448146_55","tagType":"img","scroll":false,"priority":1000,"data":"http://ad.doubleclick.net/ad/N884.TripAdvisor1/B7983491.137;sz=1x1?ord=1409005247845"}
+,   {"id":"lazyload_-272448146_56","tagType":"img","scroll":false,"priority":1000,"data":"http://choice.demdex.net/event?d_event=imp&d_adgroup=109059140&d_placement=109059165&d_site=370125&d_campaign=7983491&ord=1409005247845"}
+,   {"id":"lazyload_-272448146_57","tagType":"img","scroll":false,"priority":1000,"data":"http://ad.doubleclick.net/ad/N4764.TripAdvisor/B8043913.107263165;sz=1x1?ord=1409005247845"}
+,   {"id":"lazyload_-272448146_58","tagType":"img","scroll":false,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/30/4f/washington-dc.jpg"}
+,   {"id":"lazyload_-272448146_59","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/a2/d0a2ba7465bb5ae8b6bd0440b173d5cd5.jpg"}
+,   {"id":"lazyload_-272448146_60","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/04/b5/8b/14/mandarin-oriental-washington.jpg"}
+,   {"id":"lazyload_-272448146_61","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/4d/804db5b820ceb292659d45f42ad37a129.jpg"}
+,   {"id":"lazyload_-272448146_62","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/9c/ba9cf285ccf1ca558cd065d5246b232210.jpg"}
+,   {"id":"lazyload_-272448146_63","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/63/6f63a99836b8295f1b7bc428ce7c8cd14.jpg"}
+,   {"id":"lazyload_-272448146_64","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/05/59/17/63/the-liaison-capitol-hill.jpg"}
+,   {"id":"lazyload_-272448146_65","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/55/b4/55b4a4c2be351cf0f8a23976c31cdbe11.jpg"}
+,   {"id":"lazyload_-272448146_66","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/02/9b/c5/c9/exterior-view.jpg"}
+,   {"id":"lazyload_-272448146_67","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4b/7d/4b7db83192462756c81842352c2912f21.jpg"}
+,   {"id":"lazyload_-272448146_68","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/ea/65ea7d13c03bac27599efbff71fd65c81.jpg"}
+,   {"id":"lazyload_-272448146_69","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/1f/4c1f35c211bee368ee4308146bd330f67.jpg"}
+,   {"id":"lazyload_-272448146_70","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/cc/15ccae2e6f19520047d052d7306e31ca1.jpg"}
+,   {"id":"lazyload_-272448146_71","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/01/c1/8e/5b/room.jpg"}
+,   {"id":"lazyload_-272448146_72","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-t/03/5c/f3/03/exterior.jpg"}
+,   {"id":"lazyload_-272448146_73","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/77/57/7757b5e0fbe008ca7212da3bed52c9531large.jpg"}
+,   {"id":"lazyload_-272448146_74","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/branding/identityFOOT_2014.png"}
+,   {"id":"lazyload_-272448146_75","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/icons/bell.png"}
 ];
 var lazyHtml = [
 ];
@@ -3719,7 +3727,7 @@ window.setupLazyLoad();
 }, 'lazy load images');
 </script>
 <script type="text/javascript">
-ta.store('abMarkerSet', '');
+ta.store('abMarkerSet', 't814_revops_meta_click_leave_behind_v2');
 ta.store('facebook.hasPublishActions', "");
 ta.keep('startOffset', '1');
 <!-- currentGeoId = 28970 -->
@@ -3730,7 +3738,7 @@ ta.store('facebook.disableLogin', false);
 ta.store('facebook.apiKey', "f1e687a58f0cdac60b7af2317a5febb3");
 ta.store('facebook.appId', "162729813767876");
 ta.store('facebook.appName', "tripadvisor");
-ta.store('facebook.taServerTime', "1409005101");
+ta.store('facebook.taServerTime', "1409005247");
 ta.store('facebook.skip.session.check',"false");
 ta.store("facebook.invalidFBCreds", true);
 window.fbAsyncInit = ta.support.Facebook.init;
@@ -3771,7 +3779,7 @@ ta.queueForLoad(
 function() {
 ta.store('ads.pageTargeting', {
 "PageType": "Attraction_Review",
-"pool": "A",
+"pool": "C",
 "kw": "Smithsonian_National_Air_and_Space_Museum",
 "country": "191",
 "geo": "28970",
@@ -3779,14 +3787,14 @@ ta.store('ads.pageTargeting', {
 "rd": "com",
 "hname": "Smithsonian_National_Air_and_Space_Museum",
 "gname": "Washington_DC",
-"slice": "control_19",
+"slice": "single_31",
 "report": [
-"desktop_Attraction_Review_control_19",
-"desktop_com_a"
+"desktop_Attraction_Review_single_31",
+"desktop_com_c"
 ],
 "seg": [
-"fam",
-"culture"
+"culture",
+"fam"
 ],
 "platform": "desktop"
 });
@@ -3951,7 +3959,7 @@ ta.store("ta.common.dmpFeatures.activeDMP", ta.common.dmp.bluekai);
 else if (ta && ta.util && ta.util.error && ta.util.error.record) {
 ta.util.error.record.apply(this, [null, "DMP JavaScript not found"]);
 }
-ta.store("ta.common.dmp.taUUID", "aSdEWPbn1GSbyQFMHAm2HvIEIMXJyMGNv2MabU/Pr+9FDDzqRsf9xg==");
+ta.store("ta.common.dmp.taUUID", "fNb93HUo4U6byQFMHAm2HvIEIMXJyMGNM3fcJ9RLcYI/zbuYYWR2nA==");
 ta.store("ta.common.dmpBehaviors", {
 "AttractionType" : [
 "Science Museums"
@@ -4107,6 +4115,6 @@ taplc_ar_nearby_hotels_xsell_0_handlers = ta.p13n.placements.load('ar_nearby_hot
 </script>
 <div id="IP_IFRAME_HOLDER"></div>
 </body>
-<!-- st: 294 dc: 2 sc: 16 -->
-<!-- uid: U-u2LQoQK2IAABpY19cAAAAA -->
+<!-- st: 277 dc: 2 sc: 16 -->
+<!-- uid: U-u2vwoQHzgAAFg8coUAAAAE -->
 </html>
